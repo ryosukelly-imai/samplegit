@@ -1,0 +1,10 @@
+git add
+git add .
+
+git commit
+git commit .
+
+git status
+
+git log
+
