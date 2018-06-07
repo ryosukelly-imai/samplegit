@@ -5,3 +5,10 @@ print('Hi')
 
 print(2+2)
 
+import math
+
+
+result = math.sqrt(25)
+print(result)
+
+# add
